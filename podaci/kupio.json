@@ -1,0 +1,79 @@
+[
+  {
+    "_key": "1",
+    "_from": "korisnici/3",
+    "_to": "igrice/1",
+    "radnja": "radnje/1",
+    "datum_kupovine": "2024-03-12"
+  },
+  {
+    "_key": "2",
+    "_from": "korisnici/3",
+    "_to": "igrice/4",
+    "radnja": "radnje/2",
+    "datum_kupovine": "2024-06-01"
+  },
+  {
+    "_key": "3",
+    "_from": "korisnici/4",
+    "_to": "igrice/2",
+    "radnja": "radnje/3",
+    "datum_kupovine": "2023-11-20"
+  },
+  {
+    "_key": "4",
+    "_from": "korisnici/5",
+    "_to": "igrice/7",
+    "radnja": "radnje/1",
+    "datum_kupovine": "2024-01-15"
+  },
+  {
+    "_key": "5",
+    "_from": "korisnici/5",
+    "_to": "igrice/14",
+    "radnja": "radnje/2",
+    "datum_kupovine": "2024-05-22"
+  },
+  {
+    "_key": "6",
+    "_from": "korisnici/6",
+    "_to": "igrice/3",
+    "radnja": "radnje/3",
+    "datum_kupovine": "2022-09-10"
+  },
+  {
+    "_key": "7",
+    "_from": "korisnici/7",
+    "_to": "igrice/6",
+    "radnja": "radnje/1",
+    "datum_kupovine": "2023-02-18"
+  },
+  {
+    "_key": "8",
+    "_from": "korisnici/8",
+    "_to": "igrice/9",
+    "radnja": "radnje/2",
+    "datum_kupovine": "2024-04-05"
+  },
+  {
+    "_key": "9",
+    "_from": "korisnici/8",
+    "_to": "igrice/10",
+    "radnja": "radnje/3",
+    "datum_kupovine": "2024-04-07"
+  },
+  {
+    "_key": "10",
+    "_from": "korisnici/9",
+    "_to": "igrice/12",
+    "radnja": "radnje/1",
+    "datum_kupovine": "2021-12-30"
+  },
+  {
+    "_key": "11",
+    "_from": "korisnici/10",
+    "_to": "igrice/5",
+    "radnja": "radnje/2",
+    "datum_kupovine": "2024-07-09"
+  }
+]

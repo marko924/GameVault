@@ -1,0 +1,20 @@
+[
+  { "_key": "1","_from": "igrice/1",  "_to": "igrice/7",  "stepen_slicnosti": 9 },
+  { "_key": "2","_from": "igrice/1",  "_to": "igrice/14", "stepen_slicnosti": 8 },
+  { "_key": "3","_from": "igrice/7",  "_to": "igrice/14", "stepen_slicnosti": 7 },
+  { "_key": "4","_from": "igrice/2",  "_to": "igrice/9",  "stepen_slicnosti": 9 },
+  { "_key": "5","_from": "igrice/2",  "_to": "igrice/19", "stepen_slicnosti": 8 },
+  { "_key": "6","_from": "igrice/9",  "_to": "igrice/19", "stepen_slicnosti": 7 },
+  { "_key": "7","_from": "igrice/3",  "_to": "igrice/10", "stepen_slicnosti": 9 },
+  { "_key": "8","_from": "igrice/3",  "_to": "igrice/17", "stepen_slicnosti": 8 },
+  { "_key": "9","_from": "igrice/10", "_to": "igrice/17", "stepen_slicnosti": 7 },
+  { "_key": "10","_from": "igrice/4",  "_to": "igrice/8",  "stepen_slicnosti": 9 },
+  { "_key": "11","_from": "igrice/4",  "_to": "igrice/15", "stepen_slicnosti": 8 },
+  { "_key": "12","_from": "igrice/8",  "_to": "igrice/15", "stepen_slicnosti": 7 },
+  { "_key": "13","_from": "igrice/5",  "_to": "igrice/11", "stepen_slicnosti": 9 },
+  { "_key": "14","_from": "igrice/5",  "_to": "igrice/16", "stepen_slicnosti": 8 },
+  { "_key": "15","_from": "igrice/11", "_to": "igrice/16", "stepen_slicnosti": 7 },
+  { "_key": "16","_from": "igrice/6",  "_to": "igrice/12", "stepen_slicnosti": 9 },
+  { "_key": "17","_from": "igrice/6",  "_to": "igrice/18", "stepen_slicnosti": 8 },
+  { "_key": "18","_from": "igrice/12", "_to": "igrice/18", "stepen_slicnosti": 7 }
+]

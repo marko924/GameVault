@@ -1,0 +1,16 @@
+[
+  { "_key": "1","_from": "igrice/1",  "_to": "radnje/1", "kolicina": 5 },
+  { "_key": "2","_from": "igrice/2",  "_to": "radnje/1", "kolicina": 3 },
+  { "_key": "3","_from": "igrice/3",  "_to": "radnje/1", "kolicina": 7 },
+  { "_key": "4","_from": "igrice/4",  "_to": "radnje/1", "kolicina": 0 },
+  { "_key": "5","_from": "igrice/2",  "_to": "radnje/2", "kolicina": 4 },
+  { "_key": "6","_from": "igrice/5",  "_to": "radnje/2", "kolicina": 6 },
+  { "_key": "7","_from": "igrice/6",  "_to": "radnje/2", "kolicina": 0 },
+  { "_key": "8","_from": "igrice/7",  "_to": "radnje/2", "kolicina": 8 },
+  { "_key": "9","_from": "igrice/8",  "_to": "radnje/2", "kolicina": 3 },
+  { "_key": "10","_from": "igrice/1",  "_to": "radnje/3", "kolicina": 2 },
+  { "_key": "11","_from": "igrice/9",  "_to": "radnje/3", "kolicina": 5 },
+  { "_key": "12","_from": "igrice/10", "_to": "radnje/3", "kolicina": 4 },
+  { "_key": "13","_from": "igrice/11", "_to": "radnje/3", "kolicina": 6 },
+  { "_key": "14","_from": "igrice/12", "_to": "radnje/3", "kolicina": 0 }
+]

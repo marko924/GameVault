@@ -1,0 +1,5 @@
+[
+  { "_key": "1","naziv": "Games", "adresa": { "ulica": "Bulevar Oslobodjenja", "broj": 12, "grad": "Novi Sad", "drzava": "Srbija" } },
+  { "_key": "2","naziv": "Game centar", "adresa": { "ulica": "Knez Mihailova", "broj": 5, "grad": "Beograd", "drzava": "Srbija" } },
+  { "_key": "3","naziv": "Computerland", "adresa": { "ulica": "Sentandrejski put", "broj": 11, "grad": "Novi Sad", "drzava": "Srbija" } }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "_key": "1",
+    "naziv": "The Witcher 3",
+    "cena": 4500,
+    "platforma": "PC",
+    "zanr": "RPG",
+    "opis": "Open-world RPG sa bogatom pricom.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/250px-Witcher_3_cover_art.jpg"
+  },
+  {
+    "_key": "2",
+    "naziv": "God of War",
+    "cena": 5000,
+    "platforma": "PlayStation",
+    "zanr": "Action",
+    "opis": "Akciona avantura zasnovana na nordijskoj mitologiji.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/e/ee/God_of_War_Ragnar%C3%B6k_cover.jpg"
+  },
+  {
+    "_key": "3",
+    "naziv": "Halo Infinite",
+    "cena": 4200,
+    "platforma": "Xbox",
+    "zanr": "Shooters",
+    "opis": "Sci-fi pucačina iz prvog lica.",
+    "slika": "https://m.media-amazon.com/images/M/MV5BY2U4MzY3N2QtNTc0MS00ODc3LWI2ZDctYjgzMWExODdkYmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "_key": "4",
+    "naziv": "FIFA 24",
+    "cena": 7000,
+    "platforma": "PC",
+    "zanr": "Sport",
+    "opis": "Fudbalska simulacija.",
+    "slika": "https://store-images.s-microsoft.com/image/apps.62211.13743940396065041.b843213c-0751-4e6c-8c85-83412bf1f1aa.04161b63-31e2-4743-b77b-cdb3fb3dccd6"
+  },
+  {
+    "_key": "5",
+    "naziv": "Civilization VI",
+    "cena": 3500,
+    "platforma": "PC",
+    "zanr": "Strategy",
+    "opis": "Turn-based strategija izgradnje civilizacije.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Civilization_VI_cover_art.jpg/250px-Civilization_VI_cover_art.jpg"
+  },
+  {
+    "_key": "6",
+    "naziv": "Resident Evil Village",
+    "cena": 4800,
+    "platforma": "PlayStation",
+    "zanr": "Horror",
+    "opis": "Survival horror igra iz prvog lica.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/2/2c/Resident_Evil_Village.png"
+  },
+  {
+    "_key": "7",
+    "naziv": "Zelda: Breath of the Wild",
+    "cena": 6000,
+    "platforma": "Nintendo Switch",
+    "zanr": "RPG",
+    "opis": "Avantura u otvorenom svetu Hyrule-a.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+  },
+  {
+    "_key": "8",
+    "naziv": "Forza Horizon 5",
+    "cena": 5200,
+    "platforma": "Xbox",
+    "zanr": "Sport",
+    "opis": "Trkačka igra u otvorenom svetu.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg"
+  },
+  {
+    "_key": "9",
+    "naziv": "Dark Souls III",
+    "cena": 3900,
+    "platforma": "PC",
+    "zanr": "Action",
+    "opis": "Izazovna akciona RPG igra.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Dark_souls_3_cover_art.jpg/250px-Dark_souls_3_cover_art.jpg"
+  },
+  {
+    "_key": "10",
+    "naziv": "Call of Duty: Modern Warfare",
+    "cena": 6500,
+    "platforma": "PlayStation",
+    "zanr": "Shooters",
+    "opis": "Realisticna vojna pucačina.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg"
+  },
+  {
+    "_key": "11",
+    "naziv": "Stellaris",
+    "cena": 3000,
+    "platforma": "PC",
+    "zanr": "Strategy",
+    "opis": "Grand strategy u svemiru.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/b/bd/Stellaris_cover.png"
+  },
+  {
+    "_key": "12",
+    "naziv": "Dead Space",
+    "cena": 4700,
+    "platforma": "Xbox",
+    "zanr": "Horror",
+    "opis": "Horor u svemirskom okruzenju.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/3/36/Dead_Space_2022_Teaser_Art.jpg"
+  },
+  {
+    "_key": "13",
+    "naziv": "Assassin's Creed Valhalla",
+    "cena": 5500,
+    "platforma": "PC",
+    "zanr": "Action",
+    "opis": "Vikinška akciona avantura.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Assassin%27s_Creed_Valhalla_cover.jpg/250px-Assassin%27s_Creed_Valhalla_cover.jpg"
+  },
+  {
+    "_key": "14",
+    "naziv": "Pokemon Scarlet",
+    "cena": 5800,
+    "platforma": "Nintendo Switch",
+    "zanr": "RPG",
+    "opis": "Avantura u Pokemon svetu.",
+    "slika": "https://cdn.cdkeys.com/496x700/media/catalog/product/p/o/pokemon-scarlet-1659542292648_1_.jpg"
+  },
+  {
+    "_key": "15",
+    "naziv": "NBA 2K24",
+    "cena": 6900,
+    "platforma": "PlayStation",
+    "zanr": "Sport",
+    "opis": "Košarkaška simulacija.",
+    "slika": "https://assets.2k.com/1a6ngf98576c/5lvjCUPKs5vj2aVyzDobJh/ae2575e0e37c5e84d2e4b49978974384/N24-WEB-HOMEPAGE-RETAIL_CAROUSEL-KOBE_BRYANT_EDITION-MODULE_2-425x535-R2.jpg"
+  },
+  {
+    "_key": "16",
+    "naziv": "Age of Empires IV",
+    "cena": 4300,
+    "platforma": "PC",
+    "zanr": "Strategy",
+    "opis": "RTS strategija kroz istoriju.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Age_of_Empires_IV_Cover_Art.png/250px-Age_of_Empires_IV_Cover_Art.png"
+  },
+  {
+    "_key": "17",
+    "naziv": "Doom Eternal",
+    "cena": 4100,
+    "platforma": "Xbox",
+    "zanr": "Shooters",
+    "opis": "Brza i brutalna pucačina.",
+    "slika": "https://cms-assets.xboxservices.com/assets/9f/a1/9fa1b5f0-be24-4468-bf5a-90a63763d0d1.jpg?n=DOOM-Eternal_GLP-Page-Hero-0_1083x1222_01.jpg"
+  },
+  {
+    "_key": "18",
+    "naziv": "Silent Hill 2",
+    "cena": 3600,
+    "platforma": "PlayStation",
+    "zanr": "Horror",
+    "opis": "Psihološki survival horror.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg"
+  },
+  {
+    "_key": "19",
+    "naziv": "Monster Hunter Rise",
+    "cena": 4900,
+    "platforma": "Nintendo Switch",
+    "zanr": "Action",
+    "opis": "Lov na čudovišta u fantastičnom svetu.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Monster_hunter_rise_cover.jpg/250px-Monster_hunter_rise_cover.jpg"
+  },
+  {
+    "_key": "20",
+    "naziv": "Football Manager 2024",
+    "cena": 3200,
+    "platforma": "PC",
+    "zanr": "Strategy",
+    "opis": "Menadžerska fudbalska simulacija.",
+    "slika": "https://upload.wikimedia.org/wikipedia/en/e/e2/Football_Manager_2024.jpg"
+  }
+]
